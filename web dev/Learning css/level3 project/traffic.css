@@ -1,0 +1,29 @@
+#div{
+    height: 400px;
+    width: 200px;
+    background-color: rgb(0, 0, 0);
+    padding-top: 20px;
+}
+#circle1{
+    margin-left: 50px;
+    margin-bottom: 30px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: brown;
+}
+#circle2{
+    margin-left: 50px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgb(163, 141, 14);
+}
+#circle3{
+    margin-top: 30px;
+    margin-left: 50px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgb(11, 106, 47);
+}

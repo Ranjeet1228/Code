@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.performanceTesting.frontend">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/performanceTesting/lib/modules/intellij.performanceTesting.frontend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

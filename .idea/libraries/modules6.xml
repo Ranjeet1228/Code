@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="modules6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/jupyter-plugin/lib/modules/intellij.jupyter.py.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/jupyter-plugin/lib/modules/intellij.jupyter.psi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/jupyter-plugin/lib/modules/intellij.jupyter.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/jupyter-plugin/lib/modules/intellij.jupyter.tables.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/jupyter-plugin/lib/modules/intellij.jupyter.split.common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/jupyter-plugin/lib/modules/intellij.jupyter.py.completion.ml.ranking.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/jupyter-plugin/lib/modules/intellij.jupyter.py.psi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

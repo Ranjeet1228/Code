@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    padding-top: 25px;
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+}
+a{
+    color: white;
+    padding-left: 30px;
+    padding-right: 200px;
+    text-decoration: none;
+}
+#logo{
+    color: brown;
+    font-weight: bold;
+    font-size: larger;
+}
+
+button{
+    background-color: rgb(216, 130, 11);
+    cursor: pointer;
+}
+
+.content{
+    border: solid;
+    border-style: solid;
+}
+
+#div1{
+    border-style: solid;
+    height: 100px;
+    width: 100%;
+    background-color:rgba(241, 8, 8, 0.5);
+}
+#div2{
+    border-style: solid;
+    height: 100px;
+    width: 100%;
+    background-color: rgba(0, 255, 119, 0.5);
+}
+#div3{
+    border-style: solid;
+    height: 100px;
+    width: 100%;
+    background-color: rgba(5, 25, 235, 0.5);
+}

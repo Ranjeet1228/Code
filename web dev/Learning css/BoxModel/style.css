@@ -1,0 +1,15 @@
+.height{
+    height: 100px;
+    background-color: rgb(189, 91, 91);
+    color: aqua;
+    width: 300px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+h1{
+    background-color: blue;
+    color: bisque;
+    width: 200px;
+}

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="action">
+        <!--take input as text-->
+        <input type="text" placeholder="Type something"> <br>
+
+        <!--take password as input-->
+        <input type="password" placeholder="enter your password"> <br>
+
+        <!--take file as input-->
+        <input type="file" placeholder="enter your file"><br>
+
+        <!--create a buttom at show alert "Hello Ranjeet on clicking on it"-->
+        <input type="button" value="click me" onclick="alert('Hello, Ranjeet!')">
+        <br><br> 
+
+        <!--take input as colour-->
+        <input type="color">
+
+        <br>
+
+        <!--take input as only one option amoge same class-->
+        <!-- same class ke liye ek hi input select hoga-->
+         <!--label me for ke bad ki id input ki id same hone se text pr click krne pr option select ho jata hai 
+         ye accuraccy ke liye sahi hota hai-->
+        <label for="102">
+            <input type="radio"value="class XII" name="class" id="102"> class XII
+        </label>
+
+        <label for="101">
+            <input type="radio" value="classXI" name="class" id="101">classXI
+        </label>
+
+        <br>
+        <input type="radio" value="male" name="gender">male
+        <input type="radio" value="female" name="gender">female
+
+
+        <br><br>
+
+
+        <!--checkbox:- ye mutiple option ke liye hota hai-->
+        <label for="math">
+            <input type="checkbox" value="math" name="subject" id="math"> math
+        </label>
+        <br>
+        <label for="phy">
+            <input type="checkbox" value="phy" name="subject" id="phy">phy
+        </label>
+        <br>
+        <label for="cse">
+            <input type="checkbox" name="subject" value="computer science" id = cse>computer science
+        </label>
+        <br><br>
+
+
+        <select name="city">
+            <option value="delhi"> delhi</option>   
+            <option value="mumbai">mumbai</option>
+            <option value="chennai">chennai</option>
+            <option value="patna">Patna</option>
+        </select>
+
+
+        <br><br>
+        <!--textArea-->
+        <textarea name="feedBack" id="feed"placeholder="please give your valuable feedback" rows="3"width="7" ></textarea>
+        
+        <br><br>
+        <!--submit buttom-->
+        <input type="submit" value="submit">
+    </form>
+</body>
+</html>

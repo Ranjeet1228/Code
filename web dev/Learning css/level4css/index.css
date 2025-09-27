@@ -1,0 +1,13 @@
+#box{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    padding-top: 10px;
+}
+
+#box1{
+    background-color: yellow;
+    height: 60%;
+    width: 60%;
+    margin: 10px 10px 10px 10px;
+}

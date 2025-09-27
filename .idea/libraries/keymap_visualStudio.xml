@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="keymap-visualStudio">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/keymap-visualStudio/lib/keymap-visualStudio.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="lib26">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/rd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/tls-channel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/quiche-jna-stubs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/jnaerator-runtime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/grpc-netty-shaded.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/ice4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/split-protocol.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/vcs-protocol.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/remote-controller.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/backend-split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/cwm-plugin-backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/jstun.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/java-websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/cwm-plugin-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/cwm-plugin-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/remote-controller-backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/cwm-plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/bouncy-castle-pgp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/jitsi-utils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

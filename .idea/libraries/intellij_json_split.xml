@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.json.split">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/json/lib/modules/intellij.json.split.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

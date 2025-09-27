@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.grid.scripting.rt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/grid-plugin/lib/modules/intellij.grid.scripting.rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

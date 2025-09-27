@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/javaee-app-servers-impl/lib/javaee-appServers-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/javaee-app-servers-impl/lib/javaee-appServers-cloud-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/javaee-app-servers-impl/lib/AppServersView.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/javaee-app-servers-impl/lib/javaee-app-servers-impl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

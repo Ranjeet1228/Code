@@ -1,0 +1,5 @@
+tup = (12, 45, 98)
+print(tup)
+print(type(tup))
+print(tup[0])
+print(len(tup))

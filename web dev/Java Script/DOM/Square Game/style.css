@@ -1,0 +1,39 @@
+*{
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+
+}
+
+#main{
+    height:200%;
+    width:200%;
+    padding: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: 'Montserrat';
+
+}
+
+.shape{
+    height:200px;
+    width: 200px;
+    border: 2px solid black;
+    display: block;
+    text-align: center;
+    align-items: center;
+}
+
+.react{
+    display: flex;
+}
+#cursor{
+    height: 100px;
+    width: 100px;
+    border-radius: 40px;
+    background-color: aqua;
+    position: absolute;
+}

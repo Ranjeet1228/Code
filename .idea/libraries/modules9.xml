@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="modules9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/java/lib/modules/intellij.java.debugger.impl.frontend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/java/lib/modules/intellij.java.debugger.impl.backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/java/lib/modules/intellij.java.featuresTrainer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/java/lib/modules/intellij.jvm.analysis.impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/java/lib/modules/intellij.java.unscramble.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/java/lib/modules/intellij.java.structuralSearch.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/java/lib/modules/intellij.java.vcs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

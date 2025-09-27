@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib28">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/JavaEE/lib/javaee-platform.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/JavaEE/lib/javaee-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/JavaEE/lib/jasper-v2-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/JavaEE/lib/javaee-openapi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+   display: flex;                
+    justify-content: center; 
+    align-items: center;  
+    min-height: 100vh;      
+    gap: 50px;                     
+}
+
+#logo img {
+    display: inline-block;
+    margin-right: 200px;
+    margin-left: 100px;
+    max-width: 300px;           
+}
+
+#signup {
+    background-color: aliceblue;
+    height: 500px;
+    width: 450px;
+    padding: 20px;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+#signup p {
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+form{
+    padding-left:30px;
+    
+}

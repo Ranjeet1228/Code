@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JavaScript">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/javascript-plugin/projectTemplates/JavaScript/no_samples.zip!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/javascript-plugin/projectTemplates/JavaScript/with_samples.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

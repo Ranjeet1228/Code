@@ -1,0 +1,10 @@
+declear as
+int a = 10;
+int* ptr = &a; here ptr store address of a;
+
+the value of a can also be printed as  
+print("%d",* ptr); // 10;
+printf("%p",ptr); // address
+
+
+

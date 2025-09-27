@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="modules">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/indexing-shared-ultimate-plugin-bundled/lib/modules/intellij.indexing.shared.ultimate.git.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/indexing-shared-ultimate-plugin-bundled/lib/modules/intellij.indexing.shared.ultimate.java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/indexing-shared-ultimate-plugin-bundled/lib/modules/intellij.indexing.shared.ultimate.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/indexing-shared-ultimate-plugin-bundled/lib/modules/intellij.indexing.shared.generator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij.kotlin.jupyter.plots">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/kotlin-jupyter-plugin/lib/modules/intellij.kotlin.jupyter.plots.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

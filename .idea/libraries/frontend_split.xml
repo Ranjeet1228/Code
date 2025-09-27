@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="frontend-split">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/frontend-split/rd-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/frontend-split/frontend-split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/frontend-split/terminal-frontend-split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/frontend-split/cwm-frontend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/frontend-split/markdown-frontend-split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/frontend-split/performance-testing-frontend-split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/frontend-split/driver-frontend-split.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

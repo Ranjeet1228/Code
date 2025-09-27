@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="modules3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/modules/intellij.terminal.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/modules/intellij.platform.execution.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/modules/intellij.platform.project.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/modules/intellij.platform.inline.completion.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/modules/intellij.platform.kernel.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/modules/intellij.platform.vcs.frontend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/modules/intellij.platform.inline.completion.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/modules/intellij.platform.vcs.common.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/modules/intellij.java.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/modules/intellij.platform.inline.completion.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/modules/intellij.platform.rpc.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/modules/intellij.platform.vcs.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/modules/intellij.cwm.vcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/modules/intellij.platform.navbar.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/modules/intellij.performanceTesting.backend.split.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/cwm-plugin/lib/modules/intellij.platform.progress.frontend.split.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

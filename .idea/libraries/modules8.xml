@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="modules8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.fullLine.css.local.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.ml.llm.css.completion.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.fullLine.local.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.ml.llm.rider.csharp.completion.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.ml.llm.javascript.completion.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.ml.llm.rider.cpp.completion.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.ml.llm.html.completion.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.fullLine.go.local.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.ml.llm.java.completion.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.ml.llm.python.completion.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.fullLine.python.local.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.ml.llm.cpp.completion.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.fullLine.js.local.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.fullLine.ruby.local.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.fullLine.php.local.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.fullLine.rider.cpp.local.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.fullLine.java.local.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.fullLine.html.local.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.ml.llm.ruby.completion.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.ml.llm.kotlin.completion.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.fullLine.rust.local.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.fullLine.terraform.local.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.fullLine.kotlin.local.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.ml.llm.php.completion.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.fullLine.rider.csharp.local.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA 2025.1.1.1/plugins/fullLine/lib/modules/intellij.ml.llm.go.completion.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

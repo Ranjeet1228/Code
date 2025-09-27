@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@angular/cli": "^20.3.2",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "name": "ranjeet",
+  "version": "1.0.0",
+  "description": "this is an my first time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "Ranjeet",
+  "license": "ISC"
+}

@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Sign Up</title>
+    <style>
+        body{
+            background-color: rgb(162, 177, 230);
+        }
+        .plate{
+            background-color: rgb(13, 80, 49);
+            margin-right: 300px;
+            margin-left: 330px;
+        }
+        .heading{
+            text-align: center;
+            color: black;
+            background-color: rgb(13, 54, 54);
+
+        }
+        .heading h1{
+            color: rgb(185, 255, 7);
+        }
+        .heading p{
+            color: blanchedalmond;
+        }
+        .logo{
+            text-align: center;
+            background-color: rgb(2, 74, 6);
+        }
+        .about{
+            background-color: rgb(3, 106, 84);
+
+        }
+        .about header{
+            text-align: center; 
+            color: rgb(224, 244, 175);
+        }
+        
+        .Information header{
+             text-align: center; 
+             color: rgb(224, 244, 175);
+        }
+        .text1{
+            color: rgb(241, 173, 14);
+            font-weight: bold;
+        }
+        .signUp{
+           background-color: white;
+           margin-left: 240px;
+           margin-right: 220px;
+           border-radius: 20px;
+        }
+        .heading1{
+            color: rgb(79, 45, 4);
+            text-align: center;
+        }
+        .details{
+            margin-left: 100px;
+        }
+        .submit{
+            margin-left: 90px;
+        }
+        .submit input{
+            cursor: pointer;
+            color: blue;
+        }
+        .signin{
+            text-align: center;
+        }
+
+        .feedback{
+            margin-left: 240px;
+        }
+        .feedback textarea{
+            background-color:rgb(255, 255, 255);
+            border-radius: 15px;
+        }
+        .foot{
+            margin-left: 130px;
+            margin-right: 190px;
+            background-color: rgba(20, 20, 20, 0.482);
+            border-radius: 5px;
+            border-bottom-style: dotted;
+        }
+        .contact{
+            margin-left: 30px;
+            color: blanchedalmond;
+            text-align: start;
+
+        }
+        .contact a{
+            color: rgb(224, 210, 189);
+            
+        }
+    </style>
+</head>
+<body>
+    <div class="plate">
+        <div class="heading">
+            <h1>Say! Hello to World</h1>
+            <p><b>Create Your account</b></p>
+            <hr>
+        </div>
+
+        <div class="logo">
+            <a href="https//: connectingworld.com"><img width ="10%" src="https://static.vecteezy.com/system/resources/previews/003/529/435/original/internet-logo-icon-illustration-vector.jpg"></a>
+            <div class="text1"> Connecting world</div>
+        </div>
+
+        <div class="about">
+             <header>
+                <h3>
+                ConnectingWorld:- connect across the world
+            </h3>
+            </header>
+            <main>
+                <p style="margin-left: 10px; color: rgb(254, 254, 254);">
+                     Welcome to <b>Connecting world</b>, this page is design to link the people across the world.
+                     In this busy and fast moving time zone, send some memory to you loved one.<hr>
+                </p> 
+            </main>
+        </div>
+
+        <div class="Information">
+            <main>
+                <div class="signUp">
+                       <div class="heading1">
+                         <h1>Sign Up</h1>
+                       </div>
+
+                       <div class="details">
+                         <form action="action.php">
+                            <input  type="text" placeholder="First Name">
+                            <br><br>
+
+                            <input type="text" placeholder="Last Name">
+                            <br><br>
+
+                            <input type="text"placeholder="UserName">
+                            <br><br>
+
+                            <input type="password" placeholder="Enter password">
+                            <br><br>
+
+                            <input type="password" placeholder="Confirm password">
+                            <br><br>
+
+
+                            Gender:- 
+                            <label for="male">
+                                <input type="radio" value="male" name="Gender" id="male"> male
+                            </label>
+                            <label for="female">
+                                <input type="radio" value="female" name="Gender" id="female"> female
+                            </label>
+                            <br><br>
+
+                            
+                            Origin:-
+                            <select name="Country">
+                                <option value="India">India</option>
+                                <option value="Afghanistan">Afghanistan</option>
+                                <option value="Pakistan">Pakistan</option>
+                                <option value="Srilanka">Srilanka</option>
+                                <option value="Nepal">Nepal</option>
+                                <option value="Bhutan">Bhutan</option>
+                                <option value="Myanmar">Myanmar</option>
+                                <option value="Bangladesh">Bangladesh</option>
+                            </select>
+                            <br><br>
+
+                            Area Of Interest:- 
+                            <label for="science">
+                                <input type="checkbox" value="science" id="Science" name="field">Science
+                            </label>
+
+                            <label for="Movie">
+                                <input type="checkbox" value="Movie" name="field" id="Movie">Movie
+                            </label>
+
+                            <label for="politics">
+                                <input type="checkbox" value="politics" name="field" id="politics">politics
+                            </label>
+
+                            <label for="Geology">
+                                <input type="checkbox" value="geology" name="field" id="Geology"> Geology
+                            </label>
+                            <br><br>
+
+                            Date of Birth:-
+                            <input type="date">
+                            <br>
+
+                            <label for="terms">
+                                <input type="checkbox"value="terms&condition" name="terms" id="terms">I agree the <a href="https//:terms&condition.com;">Terms & Conditions</a>
+                            </label>
+                            <br><br>
+
+                            <div class="submit">
+                                <input type="button" value="Submit" onclick="alert('🎉Congratulation, Account created')">
+
+                            </div>
+                         </form>
+                       </div>
+
+
+                       <div class="signin">
+                         Already have account? <a href="/HTML/facebook prototype/facebook.html" target="_blank">Sign in</a>
+                         <br><br>
+                        </div>
+                </div>
+                <div class="feedback">
+                    <textarea name="Enter your Feedback" id=" Feedback" placeholder="Enter your Valuable Feedback" rows ="3" cols="53"></textarea>
+
+                </div>
+
+
+            </main>
+        </div>
+        <div class="foot">
+            <footer>
+                
+                <section class="contact">
+                    <a href="https://www.instagram.com/"><img height="20px" src="https://tse3.mm.bing.net/th/id/OIP.fNdYnbLL5ZOf4A7isn_kbwHaHa?pid=Api&P=0&h=180" alt="instagram"> upadhyay_ranjeet_0728</a> 
+                    
+
+                    <a style="text-align: end; margin-left: 90px;" href="mailto:upadhyayr0728@gmail.com">Gmail:-</a> upadhyayr0728@gmail.com 
+                    <br>
+                    for More info:- <a href="www.connectingworld.com">www.connectingworld.com</a>
+
+                    telephone:- <b>9507969124</b>
+                </section>
+                
+            </footer>
+        </div>
+    </div>
+</body>
+</html>

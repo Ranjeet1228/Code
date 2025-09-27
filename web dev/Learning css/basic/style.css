@@ -1,0 +1,28 @@
+*{
+    color: azure;
+}
+#box1{
+    background-color:rgba(0,0,255,.25);
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 10px;
+}
+#box2{
+    background-color:rgba(0,0,255,.5);
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+    visibility:visible;
+}
+#box3{
+    background-color:rgba(0,0,255,1);
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+
+}
